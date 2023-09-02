@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/REBRAND/static/css/main.073c9b0a.css",
+    "main.js": "/REBRAND/static/js/main.bbe5d729.js",
+    "static/js/787.28cb0dcd.chunk.js": "/REBRAND/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/REBRAND/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/REBRAND/index.html",
+    "main.073c9b0a.css.map": "/REBRAND/static/css/main.073c9b0a.css.map",
+    "main.bbe5d729.js.map": "/REBRAND/static/js/main.bbe5d729.js.map",
+    "787.28cb0dcd.chunk.js.map": "/REBRAND/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bbe5d729.js"
+  ]
+}
